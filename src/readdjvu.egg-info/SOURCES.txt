@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/readdjvu/__init__.py
+src/readdjvu/cli.py
+src/readdjvu/document.py
+src/readdjvu/parser.py
+src/readdjvu.egg-info/PKG-INFO
+src/readdjvu.egg-info/SOURCES.txt
+src/readdjvu.egg-info/dependency_links.txt
+src/readdjvu.egg-info/entry_points.txt
+src/readdjvu.egg-info/top_level.txt

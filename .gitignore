@@ -1,0 +1,20 @@
+# Pythoon
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Venv
+venv/
+.venv/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*.suo
+*.tmp
+*.user
+*.bak
+examples/
+out*/

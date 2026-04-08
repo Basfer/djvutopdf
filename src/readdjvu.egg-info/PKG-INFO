@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: readdjvu
+Version: 0.1.0
+Summary: A tool to parse DjVu files and extract pages and layers.
+Home-page: https://github.com/user/readdjvu
+Author: Gemini
+Author-email: 
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: summary
+
+# ReadDJVU
+
+A simple tool to parse DjVu files, extract pages and layers.
